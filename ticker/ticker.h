@@ -18,7 +18,6 @@ public:
 	}
 	static inline int GetTickCounterPrecision()
 	{
-
 	}
 	static inline int GetTickCyclePrecision()
 	{
