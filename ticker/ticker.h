@@ -15,7 +15,6 @@ public:
 	static LONGLONG		freqCounter;	// frequency of counter 
 	static inline int GetTickSystemPrecision()
 	{
-
 	}
 	static inline int GetTickCounterPrecision()
 	{
